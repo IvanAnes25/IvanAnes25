@@ -3,13 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ivananes25&label=Profile%20views&color=0e75b6&style=flat" alt="ivananes25" /> </p>
 
-- 🔭 I’m currently working on **enchancing my skills**
-
-- 🌱 I’m currently learning **UIUX Tools and Flutter**
+Currently working on **enchancing my skills**
 
 - 📫 How to reach me **anesivan21@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
